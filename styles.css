@@ -4,6 +4,9 @@ html {
 
 .nav {
     list-style-type: none;
+    background-color: plum;
+    padding: 30px;
+    margin-bottom: 100px;
 }
 
 .square-list {
